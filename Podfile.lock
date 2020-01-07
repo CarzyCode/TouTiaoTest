@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - HandyJSON (5.0.1)
+  - Kingfisher (5.6.0)
+  - SGPagingView (1.6.7)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON (~> 5.0.1)
+  - Kingfisher (~> 5.6.0)
+  - SGPagingView (~> 1.6.0)
+  - SnapKit (~> 4.2.0)
+  - SwiftyJSON (~> 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - Kingfisher
+    - SGPagingView
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  Kingfisher: 1a50df6880a60bae26f3e21a0df3d17b892f5e0b
+  SGPagingView: 21152cbb9e25a7259ea2415b028c22f55f362ea2
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: d474e7df52e4992b96bd2f1618729f1f64d89fad
+
+COCOAPODS: 1.8.4
