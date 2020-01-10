@@ -74,8 +74,6 @@ class HomeViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
             self.slideArr = arrayList1
             self.myTableView.delegate = self
             self.myTableView.dataSource = self
-            
-            
         }
 
     }
