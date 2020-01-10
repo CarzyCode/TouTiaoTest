@@ -67,7 +67,6 @@ class HomeViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("========================================")
         print(GetCurrentDevice.getCurrentDeviceModel())
         
         NetworkTool.loadHomeData { (arrayList,arrayList1) in
